@@ -21,16 +21,12 @@
 ![PHP](https://img.shields.io/badge/PHP-0078D6?style=for-the-badge&logo=php&logoColor=purple&color=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black)
 ![React](https://img.shields.io/badge/react-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
-![Dart](https://img.shields.io/badge/Dart-0078D6?style=for-the-badge&logo=dart&logoColor=white&color=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=red&color=white)
 ![RubyOnRails](https://img.shields.io/badge/RubyOnRails-F7DF1E.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white&color=red)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=blue&color=white)
-![Laravel](https://img.shields.io/badge/Laravel-34A853?style=for-the-badge&logo=laravel&logoColor=white&color=red)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white&color=red)
@@ -44,7 +40,7 @@
 
 ## My Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m05e5" /> | <img src="https://github-readme-stats.vercel.app/api?username=m05e5&show_icons=true" alt="m05e5" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christabelle143" /> | <img src="https://github-readme-stats.vercel.app/api?username=m05e5&show_icons=true" alt="crysty" /> |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------
 
 
