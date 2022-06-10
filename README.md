@@ -1,12 +1,12 @@
-## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="./Images/profile-img.jpg" alt="" style="width: 100%;"> I am <a href="https://www.linkedin.com/in/caleb-moses-0a1b531b9/">Crysty</a>!
+## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="./Images/profile-img.jpg" alt="" style="width: 100%;"> I am <a href="https://www.linkedin.com/in/youta-christabelle-124b45232/">Crysty</a>!
 
 ## About me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caleb-moses-0a1b531b9/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
-  <a href="mailto:calebmoses1111@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/youta-christabelle-124b45232/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto:christabelleyouta143@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
-<p>💻 I'm a Full-Stack developer currently living in Cameroon. I am building mobile and web apps capable of working remote and  on relocation</p>
+<p>💻 I'm a Full-Stack developer currently living in Cameroon. I am building  web apps capable of working remote and  on relocation</p>
 <p>🧠 Student in <img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">.</p>
 <p>🌱 I’m learning JavaScript, React, Ruby, Ruby on Rails, Html and CSS. </p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
@@ -40,7 +40,7 @@
 
 ## My Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christabelle143" /> | <img src="https://github-readme-stats.vercel.app/api?username=m05e5&show_icons=true" alt="crysty" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christabelle143" /> | <img src="https://github-readme-stats.vercel.app/api?username=Christabelle143&show_icons=true" alt="crysty" /> |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------
 
 
